@@ -1,3 +1,4 @@
 master file.
 editing master.
 Git test.
+sample 2
